@@ -1,0 +1,7 @@
+
+*.suo
+*.user
+bin
+obj
+_Resharper.*
+xextool.exe
